@@ -1,5 +1,5 @@
 # inventory-management-system-python
-A simple **Inventory Management System** developed in **Python** using fundamental programming concepts such as **Functions, Lists, Loops, Conditional Statements, Exception Handling, and CRUD Operations**.
+This project developed in **Python** using fundamental programming concepts such as **Functions, Lists, Loops, Conditional Statements, Exception Handling, and CRUD Operations**.
 
 # 📦 Inventory Management System
 
